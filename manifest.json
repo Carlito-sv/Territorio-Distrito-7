@@ -1,0 +1,20 @@
+{
+  "name": "Mapa Maestro PRO – Morena",
+  "short_name": "Maestro Morena",
+  "start_url": "./mapa_maestro_PRO_v5_2_morena_oficial.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#A70C19",
+  "icons": [
+    {
+      "src": "logo_morena_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo_morena_192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
